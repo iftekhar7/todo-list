@@ -1,0 +1,41 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(85, 76, 76);
+    text-align: center;
+}
+.container{
+    margin:50px 400px 0px 600px;
+    background-color: rgb(155, 155, 199);
+   border-radius: 10px;
+   width: 300px;
+   height: 400px;
+}
+a{
+    text-decoration: none;
+    margin-left: 170px;
+    color: rgb(161, 43, 80);
+    
+}
+li{
+    margin-right: 100px;
+}
+#input{
+    padding: 5px;
+    border: 2px solid rgb(37, 32, 32);
+    border-radius: 5px;
+}
+#error{
+    color: red;
+}
+#btn{
+    padding: 5px 7px 5px 7px;
+    border-radius: 5px;
+    background-color: rgb(80, 80, 189);
+    color: white;
+}
+#btn:hover{
+    background-color: rgb(36, 36, 224);
+    cursor: pointer;
+}
+
